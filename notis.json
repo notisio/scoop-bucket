@@ -1,21 +1,21 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/notisio/notis-cli/releases/download/v0.1.0/notis_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/notisio/notis-cli/releases/download/v0.1.1/notis_0.1.1_windows_amd64.zip",
             "bin": [
                 "notis.exe",
                 "notis-gateway.exe"
             ],
-            "hash": "71cf1a4fb0ea1685c588dfb350e6fd3368057f2dca1663747ef2ae11b9ed7483"
+            "hash": "cf54bf249d690092fc5fbda9afadc333a862a9aff27ed54f082b311412f9ada5"
         },
         "arm64": {
-            "url": "https://github.com/notisio/notis-cli/releases/download/v0.1.0/notis_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/notisio/notis-cli/releases/download/v0.1.1/notis_0.1.1_windows_arm64.zip",
             "bin": [
                 "notis.exe",
                 "notis-gateway.exe"
             ],
-            "hash": "abae97a3ff65cf7cbdc22eb7361c06587159158b2116c5b29cde546838c72de7"
+            "hash": "b124d314e35fca12bd2a8710cf56da0240fc55df338f3e6459cdc1ca5bfc5b38"
         }
     },
     "homepage": "https://notis.io",

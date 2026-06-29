@@ -1,0 +1,24 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/notisio/notis-cli/releases/download/v0.1.0/notis_0.1.0_windows_amd64.zip",
+            "bin": [
+                "notis.exe",
+                "notis-gateway.exe"
+            ],
+            "hash": "71cf1a4fb0ea1685c588dfb350e6fd3368057f2dca1663747ef2ae11b9ed7483"
+        },
+        "arm64": {
+            "url": "https://github.com/notisio/notis-cli/releases/download/v0.1.0/notis_0.1.0_windows_arm64.zip",
+            "bin": [
+                "notis.exe",
+                "notis-gateway.exe"
+            ],
+            "hash": "abae97a3ff65cf7cbdc22eb7361c06587159158b2116c5b29cde546838c72de7"
+        }
+    },
+    "homepage": "https://notis.io",
+    "license": "Proprietary",
+    "description": "Notis endpoint agent"
+}

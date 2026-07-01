@@ -1,17 +1,17 @@
 {
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "Notis menubar app — AI egress protection for your dev machine",
   "homepage": "https://notis.io",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/notisio/notis-cli/releases/download/desktop-v0.1.14/Notis-0.1.14-x64.exe",
-      "hash": "05a0e11f637aff6e054d1b3d7ecf5140e809606750d11739668379ee0125f143"
+      "url": "https://github.com/notisio/notis-cli/releases/download/desktop-v0.1.15/Notis-0.1.15-x64.exe",
+      "hash": "e6baa865f429df22ae9ba99a75a49702e583cb1cabe3f93873de89632d2dcd09"
     }
   },
   "shortcuts": [
     [
-      "Notis-0.1.14-x64.exe",
+      "Notis-0.1.15-x64.exe",
       "Notis"
     ]
   ]
